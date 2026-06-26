@@ -7,19 +7,17 @@ class Solution {
         }
         int temp = x;
         int revNo = 0;
-        while (temp != 0)
+        while (x != 0)
         {
        
-        int rem = temp % 10;
+        int rem = x % 10;
         revNo = revNo * 10 + rem;
-        temp = temp / 10;
+        x = x / 10;
        
         }
-
-        System.out.println("Rev no : " + revNo);
         
         //check
-        if (revNo == x)
+        if (revNo == temp)
         {
             return true;
         }
