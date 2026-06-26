@@ -17,14 +17,7 @@ class Solution {
         }
         
         //check
-        if (revNo == temp)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return revNo == temp;
 
         
     }
