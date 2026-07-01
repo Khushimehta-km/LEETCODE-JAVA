@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0009-palindrome-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,4 +23,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0125-valid-palindrome/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
