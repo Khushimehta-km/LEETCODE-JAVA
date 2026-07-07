@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0001-two-sum/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
