@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -70,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2643-row-with-maximum-ones](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/2643-row-with-maximum-ones/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
