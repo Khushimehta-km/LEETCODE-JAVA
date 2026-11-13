@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/0704-binary-search/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -66,6 +67,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushimehta-km/LEETCODE-JAVA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
